@@ -39,7 +39,7 @@ app.post('/bfhl', (req, res) => {
     const response = {
         is_success: true,
         user_id: "surajadde",
-        email: "surajadde876.be22@chitkara.edu.in",
+        email: "suraj876.be22@chitkara.edu.in",
         roll_number: "2210990876",
         odd_numbers,
         even_numbers,
